@@ -1,0 +1,22 @@
+Country name,Regional indicator,Ladder score,Standard error of ladder score,upperwhisker,lowerwhisker,Logged GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption,Ladder score in Dystopia,Explained by: Log GDP per capita,Explained by: Social support,Explained by: Healthy life expectancy,Explained by: Freedom to make life choices,Explained by: Generosity,Explained by: Perceptions of corruption,Dystopia + residual,rank_asc,rank_desc,Score Type
+North Macedonia,Central and Eastern Europe,5.101,0.051,5.202,5.001,9.693,0.805,65.474,0.751,0.038,0.905,2.43,1.068,0.772,0.535,0.45,0.212,0.022,2.042,1,17,Highest
+Ukraine,Commonwealth of Independent States,4.875,0.052,4.977,4.773,9.436,0.888,64.902,0.724,-0.011,0.924,2.43,0.979,0.958,0.517,0.417,0.181,0.01,1.813,1,12,Highest
+China,East Asia,5.339,0.029,5.397,5.281,9.673,0.811,69.593,0.904,-0.146,0.755,2.43,1.061,0.785,0.665,0.636,0.093,0.117,1.982,1,6,Highest
+Haiti,Latin America and Caribbean,3.615,0.173,3.953,3.276,7.477,0.54,55.7,0.593,0.422,0.721,2.43,0.294,0.173,0.227,0.257,0.463,0.139,2.06,1,20,Highest
+Yemen,Middle East and North Africa,3.658,0.07,3.794,3.521,7.578,0.832,57.122,0.602,-0.147,0.8,2.43,0.329,0.831,0.272,0.268,0.092,0.089,1.776,1,17,Highest
+United States,North America and ANZ,6.951,0.049,7.047,6.856,11.023,0.92,68.2,0.837,0.098,0.698,2.43,1.533,1.03,0.621,0.554,0.252,0.154,2.807,1,4,Highest
+Afghanistan,South Asia,2.523,0.038,2.596,2.449,7.695,0.463,52.493,0.382,-0.102,0.924,2.43,0.37,0.0,0.126,0.0,0.122,0.01,1.895,1,7,Highest
+Myanmar,Southeast Asia,4.426,0.052,4.527,4.324,8.541,0.779,59.302,0.876,0.509,0.66,2.43,0.666,0.713,0.341,0.601,0.52,0.178,1.407,1,9,Highest
+Zimbabwe,Sub-Saharan Africa,3.145,0.058,3.259,3.03,7.943,0.75,56.201,0.677,-0.047,0.821,2.43,0.457,0.649,0.243,0.359,0.157,0.075,1.205,1,36,Highest
+North Cyprus,Western Europe,5.536,0.051,5.636,5.435,10.576,0.82,73.898,0.795,0.012,0.626,2.43,1.377,0.806,0.801,0.503,0.196,0.2,1.653,1,21,Highest
+Country name,Regional indicator,Ladder score,Standard error of ladder score,upperwhisker,lowerwhisker,Logged GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption,Ladder score in Dystopia,Explained by: Log GDP per capita,Explained by: Social support,Explained by: Healthy life expectancy,Explained by: Freedom to make life choices,Explained by: Generosity,Explained by: Perceptions of corruption,Dystopia + residual,rank_asc,rank_desc,Score Type
+Czech Republic,Central and Eastern Europe,6.965,0.049,7.062,6.868,10.556,0.947,70.807,0.858,-0.208,0.868,2.43,1.37,1.09,0.703,0.58,0.052,0.046,3.124,17,1,Lowest
+Uzbekistan,Commonwealth of Independent States,6.179,0.068,6.312,6.045,8.836,0.918,65.255,0.97,0.311,0.515,2.43,0.769,1.027,0.528,0.716,0.391,0.271,2.477,12,1,Lowest
+Taiwan Province of China,East Asia,6.584,0.038,6.659,6.51,10.871,0.898,69.6,0.784,-0.07,0.721,2.43,1.48,0.982,0.665,0.49,0.142,0.139,2.687,6,1,Lowest
+Costa Rica,Latin America and Caribbean,7.069,0.056,7.179,6.96,9.88,0.891,71.4,0.934,-0.126,0.809,2.43,1.134,0.966,0.722,0.673,0.105,0.083,3.387,20,1,Lowest
+Israel,Middle East and North Africa,7.157,0.034,7.224,7.09,10.575,0.939,73.503,0.8,0.031,0.753,2.43,1.376,1.074,0.788,0.509,0.208,0.119,3.083,17,1,Lowest
+New Zealand,North America and ANZ,7.277,0.04,7.355,7.198,10.643,0.948,73.4,0.929,0.134,0.242,2.43,1.4,1.094,0.785,0.665,0.276,0.445,2.612,4,1,Lowest
+Nepal,South Asia,5.269,0.07,5.406,5.132,8.12,0.774,64.233,0.782,0.152,0.727,2.43,0.519,0.702,0.496,0.488,0.287,0.135,2.642,7,1,Lowest
+Singapore,Southeast Asia,6.377,0.043,6.46,6.293,11.488,0.915,76.953,0.927,-0.018,0.082,2.43,1.695,1.019,0.897,0.664,0.176,0.547,1.379,9,1,Lowest
+Mauritius,Sub-Saharan Africa,6.049,0.059,6.165,5.933,10.008,0.905,66.701,0.867,-0.054,0.789,2.43,1.178,0.996,0.574,0.59,0.153,0.096,2.462,36,1,Lowest
+Finland,Western Europe,7.842,0.032,7.904,7.78,10.775,0.954,72.0,0.949,-0.098,0.186,2.43,1.446,1.106,0.741,0.691,0.124,0.481,3.253,21,1,Lowest

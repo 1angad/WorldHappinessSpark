@@ -1,0 +1,8 @@
+,Ladder score,Logged GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption
+Ladder score,1.0,0.65,0.81,0.65,0.38,-0.44,-0.3
+Logged GDP per capita,0.65,1.0,0.72,0.87,0.13,-0.58,-0.41
+Social support,0.81,0.72,1.0,0.6,0.48,-0.28,-0.32
+Healthy life expectancy,0.65,0.87,0.6,1.0,0.24,-0.41,-0.52
+Freedom to make life choices,0.38,0.13,0.48,0.24,1.0,0.15,-0.59
+Generosity,-0.44,-0.58,-0.28,-0.41,0.15,1.0,-0.24
+Perceptions of corruption,-0.3,-0.41,-0.32,-0.52,-0.59,-0.24,1.0
